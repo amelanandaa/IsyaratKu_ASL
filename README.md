@@ -1,0 +1,1 @@
+# Google Colab Repository for the IsyaratKu Project
